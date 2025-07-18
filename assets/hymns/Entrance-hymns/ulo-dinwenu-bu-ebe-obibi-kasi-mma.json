@@ -1,0 +1,32 @@
+{
+  "title": "ULO DINWENU BU EBE OBIBI KALA",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Ulo dinwenu bu ebe obibi kala,",
+        "Dị n'etiti mmadu, Ọ bụrụ na anyi aga n'ụzọ ya.",
+        "Ga-esi anyi na ulo, ụmụ Chineke dị ize."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Anyi bụ umu Chineke, Ọ dị n'etiti anyi;",
+        "N'ime obi dị mma, Ọ bụrụ na anyi dịghị ezi.",
+        "Ọ zaa anyi n'ụzọ dị mma, dị ka ọ dị n'akwukwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi,",
+        "Ọ bụrụ na anyi aga n'ụzọ ya, ga-esi anyi na ulo.",
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi."
+      ]
+    }
+  ]
+}

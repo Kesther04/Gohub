@@ -1,0 +1,29 @@
+{
+  "title": "OTITO DIRU CHUKWU",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Otito diru Chukwu,",
+        "Ị dị n'etiti mmadu."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ọ dị n'etiti anyi di,",
+        "Ka anyi maara Ya n'obi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ọ zaa anyi n'ụzọ dị mma,",
+        "Maka ihunanya Ya."
+      ]
+    }
+  ]
+}

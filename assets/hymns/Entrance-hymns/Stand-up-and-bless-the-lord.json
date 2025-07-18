@@ -1,0 +1,35 @@
+{
+  "title": "STAND UP AND BLESS THE LORD",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Stand up and bless the Lord,",
+        "Ye people of His choice;",
+        "Stand up and bless His matchless name,",
+        "In songs of sweetest voice."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "His mercies are divine,",
+        "And full of truth and grace;",
+        "They flow from everlasting years,",
+        "And never end nor fade."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "He sent His light abroad,",
+        "To guide our steps aright;",
+        "He gave His Son to die for us,",
+        "And give us life and light."
+      ]
+    }
+  ]
+}

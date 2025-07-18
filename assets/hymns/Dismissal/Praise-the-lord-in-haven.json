@@ -1,0 +1,29 @@
+{
+  "title": "PRAISE THE LORD IN HEAVEN",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Praise the Lord in heaven,",
+        "Let His name be lifted high;"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Angels bow before Him,",
+        "And His praises loudly cry."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "All creation honors,",
+        "The King of majesty;"
+      ]
+    }
+  ]
+}

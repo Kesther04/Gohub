@@ -1,0 +1,35 @@
+{
+  "title": "A JOYFUL DAY",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Awake, my soul, and with the sun",
+        "Thy daily stage of duty run;",
+        "Shake off dull sloth, and joyful rise",
+        "To pay thy God thy morning vows."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Praise God, from whom all blessings flow;",
+        "Praise Him, all creatures here below;",
+        "Praise Him above, ye heavenly host;",
+        "Praise Father, Son, and Holy Ghost."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "People and creatures, render back",
+        "To thy great Maker praises due;",
+        "Let the bright heavens his power proclaim,",
+        "And earth her Creator's glory name."
+      ]
+    }
+  ]
+}

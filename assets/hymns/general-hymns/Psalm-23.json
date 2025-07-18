@@ -1,0 +1,42 @@
+{
+  "title": "PSALM 23",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "He guides me along the right path;",
+        "He is true to His name.",
+        "If I should walk in the valley of darkness,",
+        "No evil would I fear.",
+        "You are there with Your crook and Your staff,",
+        "With these You give me comfort."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "You have prepared a banquet for me",
+        "In the sight of my foes.",
+        "My head You have anointed with oil;",
+        "My cup is overflowing."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Surely goodness and kindness shall follow me",
+        "All the days of my life.",
+        "In the Lord’s own house shall I dwell",
+        "Forever and ever."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
+}

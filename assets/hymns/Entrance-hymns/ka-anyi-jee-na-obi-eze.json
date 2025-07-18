@@ -1,0 +1,32 @@
+{
+  "title": "KA ANYI JEE NA OBI EZE",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Ka anyi jee na obi eze, dị n'etiti mmadu,",
+        "Ọ bụrụ na anyi aga n'ụzọ ya, ga-esi anyi na ulo.",
+        "Ụmụ Chineke dị ize, dịghị onye isi na-abịa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Anyi bụ umu Chineke, Ọ dị n'etiti anyi;",
+        "N'ime obi dị mma, Ọ bụrụ na anyi dịghị ezi.",
+        "Ọ zaa anyi n'ụzọ dị mma, dị ka ọ dị n'akwukwo."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi,",
+        "Ọ bụrụ na anyi aga n'ụzọ ya, ga-esi anyi na ulo.",
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi."
+      ]
+    }
+  ]
+}

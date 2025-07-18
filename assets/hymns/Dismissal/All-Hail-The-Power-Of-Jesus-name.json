@@ -1,0 +1,35 @@
+{
+  "title": "All Hail The Power Of Jesus",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "All hail the power of Jesus' name!",
+        "Let angels prostrate fall;",
+        "Bring forth the royal diadem,",
+        "And crown Him Lord of all!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ye chosen seed of Israel's race,",
+        "Ye ransomed from the fall,",
+        "Hail Him who saves you by His grace,",
+        "And crown Him Lord of all!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Let every kindred, every tribe,",
+        "On this terrestrial ball,",
+        "To Him all majesty ascribe,",
+        "And crown Him Lord of all!"
+      ]
+    }
+  ]
+}

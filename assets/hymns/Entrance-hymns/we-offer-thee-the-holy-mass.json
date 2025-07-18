@@ -1,0 +1,35 @@
+{
+  "title": "WE OFFER THEE THE HOLY MASS",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "We offer Thee the holy Mass,",
+        "O Lord of earth and sky;",
+        "A sacrifice of boundless worth,",
+        "To reconcile us nigh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "The bread and wine we bring to Thee,",
+        "Are now by power divine;",
+        "Becoming Christ's own flesh and blood,",
+        "In mystery most fine."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "This sacred gift we humbly give,",
+        "For all who live and die;",
+        "May all who share this holy feast",
+        "Be raised above the sky."
+      ]
+    }
+  ]
+}

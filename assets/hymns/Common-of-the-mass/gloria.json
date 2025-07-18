@@ -1,0 +1,75 @@
+{
+  "title": "236. GLORIA",
+  "sections": [
+    {
+      "type": "Chorus",
+      "content": [
+        "Gloria in excelsis Deo",
+        "Gloria in excelsis Deo",
+        "Gloria in excelsis Deo"
+      ]
+    },
+    {
+      "type": "Verse 1",
+      "content": [
+        "Et in terra pax hominibus",
+        "Bonae voluntatis",
+        "Laudamus te, benedicimus te",
+        "Adoramus te, glorificamus te",
+        "Gratias agimus tibi propter magnam gloriam tuam",
+        "Domine Deus"
+      ]
+    },
+    {
+      "type": "Repetition",
+      "content": [
+        "In excelsis Deo"
+      ]
+    },
+    {
+      "type": "Verse 2",
+      "content": [
+        "Rex caelestis, Deus Pater omnipotens",
+        "Domine Fili unigenite, Jesu Christe",
+        "Domine Deus"
+      ]
+    },
+    {
+      "type": "Repetition",
+      "content": [
+        "In excelsis Deo"
+      ]
+    },
+    {
+      "type": "Verse 3",
+      "content": [
+        "Agnus Dei, Filius Patris",
+        "Qui tollis peccata mundi, miserere nobis",
+        "Qui tollis peccata mundi, suscipe deprecationem nostrum",
+        "Qui sedes ad dextram Patris, miserere nobis"
+      ]
+    },
+    {
+      "type": "Repetition",
+      "content": [
+        "In excelsis Deo"
+      ]
+    },
+    {
+      "type": "Verse 4",
+      "content": [
+        "Quoniam tu solus sanctus",
+        "Tu solus Dominus, tu solus Altissimus",
+        "Jesu Christe, cum Sancto Spiritus",
+        "In gloria Dei Patris",
+        "Amen, Amen"
+      ]
+    },
+    {
+      "type": "Repetition",
+      "content": [
+        "In excelsis Deo"
+      ]
+    }
+  ]
+}

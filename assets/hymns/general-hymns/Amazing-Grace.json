@@ -1,0 +1,32 @@
+{
+  "title": "AMAZING GRACE",
+  "sections": [
+    {
+      "type": "verse 1",
+      "content": [
+        "Amazing grace! How sweet the sound,",
+        "That saved a wretch like me!",
+        "I once was lost, but now am found,",
+        "Was blind, but now I see."
+      ]
+    },
+    {
+      "type": "verse 2",
+      "content": [
+        "It was grace that taught my heart to fear,",
+        "And grace my fears relieved;",
+        "How precious did that grace appear",
+        "The hour I first believed!"
+      ]
+    },
+    {
+      "type": "verse 3",
+      "content": [
+        "Through many dangers, toils, and snares",
+        "I have already come;",
+        "'Tis grace hath brought me safe thus far,",
+        "And grace will lead me home."
+      ]
+    }
+  ]
+}

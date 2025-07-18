@@ -1,0 +1,35 @@
+{
+  "title": "INTO YOUR SANCTUARY",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Into Your sanctuary we come, O Lord,",
+        "With hearts prepared and spirits bowed;",
+        "We offer praise and thanksgiving,",
+        "For all the blessings that surround."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "You are the light that never fades,",
+        "The truth that sets the captive free;",
+        "We lay our burdens at Your feet,",
+        "And find new life through Calvary."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "We come to worship and adore,",
+        "To seek Your mercy and Your grace;",
+        "May we go forth with hearts renewed,",
+        "To serve You all our days."
+      ]
+    }
+  ]
+}

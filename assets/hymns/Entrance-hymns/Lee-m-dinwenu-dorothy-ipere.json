@@ -1,0 +1,32 @@
+{
+  "title": "LEE M DINWENU DOROTHY IPER",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Lee m dinwenu, Dorothy ipere,",
+        "Maka ifufe gi, anyi dibia Chukwu,",
+        "Ị dị n'etiti anyi di, dị n'etiti anyi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ụmụ Chineke dị ize, dịghị onye isi na-abịa,",
+        "Ọ bụrụ na anyi aga n'ụzọ ya, ga-esi anyi na ulo.",
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Anyi bụ umu Chineke, Ọ dị n'etiti anyi;",
+        "N'ime obi dị mma, Ọ bụrụ na anyi dịghị ezi.",
+        "Ọ zaa anyi n'ụzọ dị mma, dị ka ọ dị n'akwukwo."
+      ]
+    }
+  ]
+}

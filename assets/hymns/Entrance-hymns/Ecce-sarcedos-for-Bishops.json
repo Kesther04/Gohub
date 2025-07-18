@@ -1,0 +1,32 @@
+{
+  "title": "ECCE SACERDOS – FOR BISHOPS",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Ecce sacerdos magnus, dominus vobiscum,",
+        "Et clerus populo, pace vobiscum,",
+        "In sancta sanctis, sit semper honor."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Pontifex summus, qui donat pacem Dei,",
+        "Sanguine Christi, lavans omnes gentes,",
+        "Hic est sacerdos, benedictus a Deo."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Vos estis sal terrae, lux mundi et veritas,",
+        "Ecclesiae lumen, Christi corpus verum,",
+        "Gloria tibi Domine, in saecula saeculorum."
+      ]
+    }
+  ]
+}

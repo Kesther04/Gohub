@@ -1,0 +1,56 @@
+{
+  "title": {
+    "en": "PRIESTLY PEOPLE",
+    "es": ""
+  },
+  "sections": [
+    {
+      "type": "verse",
+      "title": {
+        "en": "Verse 1",
+        "es": "Versículo 1"
+      },
+      "content": {
+        "en": [
+          "We are a royal priesthood,",
+          "A holy nation called by grace;",
+          "Chosen from the world to serve,",
+          "And walk in light before His face."
+        ],
+        "es": []
+      }
+    },
+    {
+      "type": "chorus",
+      "title": {
+        "en": "Chorus",
+        "es": "Coro"
+      },
+      "content": {
+        "en": [
+          "Jesus is our great High Priest,",
+          "Who gave His life upon the cross;",
+          "Now He lives to intercede,",
+          "And bear our names before the loss."
+        ],
+        "es": []
+      }
+    },
+    {
+      "type": "verse",
+      "title": {
+        "en": "Verse 2",
+        "es": "Versículo 2"
+      },
+      "content": {
+        "en": [
+          "Let us offer all we are,",
+          "In worship pure and sacrifice;",
+          "To live for Him who died for us,",
+          "Is joy beyond what earth supplies."
+        ],
+        "es": []
+      }
+    }
+  ]
+}

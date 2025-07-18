@@ -1,0 +1,35 @@
+{
+  "title": "BEHOLD AMONG MEN",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Behold among men none is like Him,",
+        "King of kings and Lord of lords;",
+        "He shall reign forever,",
+        "Hallelujah to the Savior!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "He was born in humble manger,",
+        "Yet He rules from highest throne;",
+        "All the world shall bow before Him,",
+        "At the name of Jesus Christ."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Let the earth rejoice and sing,",
+        "For the Lord is come again;",
+        "Peace and joy shall fill the nations,",
+        "When He rules in every heart."
+      ]
+    }
+  ]
+}

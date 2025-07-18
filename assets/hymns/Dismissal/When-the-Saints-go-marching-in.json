@@ -1,0 +1,35 @@
+{
+  "title": "WHEN THE SAINTS GO MARCHING IN",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "When the saints go marching in,",
+        "Oh, when the saints go marching in,",
+        "Lord, I want to be in that number,",
+        "When the saints go marching in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "When the trumpet sounds its call,",
+        "Oh, when the trumpet sounds its call,",
+        "Lord, I want to be in that number,",
+        "When the saints go marching in!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "When we gather home at last,",
+        "Oh, when we gather home at last,",
+        "Lord, I want to be in that number,",
+        "When the saints go marching in!"
+      ]
+    }
+  ]
+}

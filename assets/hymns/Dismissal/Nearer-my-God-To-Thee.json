@@ -1,0 +1,35 @@
+{
+  "title": "Nearer, My God, to Thee",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Nearer, my God, to Thee,",
+        "Nearer to Thee;",
+        "E'en though it be a cross",
+        "That raiseth me;"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Still all my song shall be,",
+        "Nearer, my God, to Thee,",
+        "Nearer to Thee;",
+        "Though like the wanderer,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Lonely and forsaken,",
+        "Of earthly hope bereft,",
+        "Bowed down with grief and fear,",
+        "Nearer, my God, to Thee!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "KA ANYI JEE NA ULO CHUKWU",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Ka anyi jee na ulo Chukwu, dị n'elu etu,",
+        "Ị kwaghachi anyi n'ụfọdụ, kpaa anyi n'otito.",
+        "Ị zighị anyi n'ogbu mmadu, zaa anyi n'ụzọ dị mma."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ị bụ nnolite anyi, dị n'etu dị elu,",
+        "Anyi aghị akwụ ego, ma ka anyi na-eso ya.",
+        "Ụmụ mmadu niile dị n'elu, kabria Chineke."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ọ dịghị onye isi na-abịa, ọ bụrụ Jesu bụ Eze,",
+        "Onye bụrụ nwata Chineke, ga-enye ya ike dị mma.",
+        "Anyi gbaghị akwụ ego, ma ka anyi na-eso ya."
+      ]
+    }
+  ]
+}

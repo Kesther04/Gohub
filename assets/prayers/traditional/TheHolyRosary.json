@@ -1,0 +1,122 @@
+{
+  "title": {
+    "en": "The Holy Rosary",
+    "es": "El Santo Rosario"
+  },
+  "sections": [
+    {
+      "type": "introduction",
+      "content": {
+        "en": [
+          "You, O Lord, will open my lips. And my tongue shall announce your praise.",
+          "Incline unto my aid, O God. O Lord, make haste to help me.",
+          "Glory be to the Father and to the Son and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, world without end. Amen."
+        ],
+        "es": [
+          "Tú, oh Señor, abrirás mis labios. Y mi lengua anunciará tu alabanza.",
+          "Inclínate en mi ayuda, oh Dios. Oh Señor, date prisa en ayudarme.",
+          "Gloria al Padre, al Hijo y al Espíritu Santo. Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén."
+        ]
+      }
+    },
+    {
+      "type": "mysteries",
+      "content": {
+        "en": [
+          "Joyful Mysteries (Monday, Thursday): The Annunciation, The Visitation, The Nativity, The Presentation, The Finding of Jesus in the Temple.",
+          "Sorrowful Mysteries (Tuesday, Friday): The Agony in the Garden, The Scourging, The Crowning with Thorns, The Carrying of the Cross, The Crucifixion.",
+          "Glorious Mysteries (Wednesday, Saturday, Sunday): The Resurrection, The Ascension, The Descent of the Holy Spirit, The Assumption, The Coronation of Mary.",
+          "Luminous Mysteries (Thursday): The Baptism of Jesus, The Wedding at Cana, The Proclamation of the Kingdom, The Transfiguration, The Institution of the Eucharist."
+        ],
+        "es": [
+          "Misterios Gozosos (Lunes, Jueves): La Anunciación, La Visitación, El Nacimiento, La Presentación, El Hallazgo de Jesús en el Templo.",
+          "Misterios Dolorosos (Martes, Viernes): La Agonía en el Huerto, La Flagelación, La Coronación de Espinas, El Camino del Calvario, La Crucifixión.",
+          "Misterios Gloriosos (Miércoles, Sábado, Domingo): La Resurrección, La Ascensión, La Venida del Espíritu Santo, La Asunción, La Coronación de María.",
+          "Misterios Luminosos (Jueves): El Bautismo de Jesús, Las Bodas de Caná, La Proclamación del Reino, La Transfiguración, La Institución de la Eucaristía."
+        ]
+      }
+    },
+    {
+      "type": "decade",
+      "content": {
+        "en": [
+          "Our Father",
+          "10 Hail Marys",
+          "Glory be to the Father"
+        ],
+        "es": [
+          "Padre Nuestro",
+          "10 Ave Marías",
+          "Gloria al Padre"
+        ]
+      }
+    },
+    {
+      "type": "conclusion",
+      "content": {
+        "en": [
+          "Hail Holy Queen, Mother of mercy; hail our life, our sweetness and our hope!",
+          "To you do we cry, poor banished children of Eve;",
+          "To you do we send up our sighs, mourning and weeping in this vale of tears.",
+          "Turn then, most gracious advocate, your eyes of mercy toward us;",
+          "And after this our exile, show us the Blessed fruit of your womb, Jesus.",
+          "O Clement, O Loving, O Sweet Virgin Mary.",
+          "Pray for us, O Holy Mother of God. That we may be made worthy of the promises of Christ."
+        ],
+        "es": [
+          "Dios te salve, Reina y Madre de misericordia; vida, dulzura y esperanza nuestra, ¡salve!",
+          "A ti clamamos los desterrados hijos de Eva;",
+          "A ti suspiramos, gimiendo y llorando en este valle de lágrimas.",
+          "Vuélvete, pues, misericordiosa Abogada, tus ojos misericordiosos hacia nosotros;",
+          "Y después de este destierro, muéstranos al fruto bendito de tu vientre, Jesús.",
+          "Oh clemente, oh piadosa, oh dulce Virgen María.",
+          "Ruega por nosotros, Santa Madre de Dios. Para que seamos dignos de alcanzar las promesas de Cristo."
+        ]
+      }
+    },
+    {
+      "type": "litany",
+      "content": {
+        "en": [
+          "Lord, have mercy. Christ, have mercy. Lord, have mercy.",
+          "Christ, hear us. Christ graciously hear us.",
+          "God the Father of Heaven – Have mercy on us.",
+          "God the Son Redeemer of the world – Have mercy on us.",
+          "God the Holy Ghost – Have mercy on us.",
+          "Holy Trinity, one God – Have mercy on us.",
+          "Holy Mary – Pray for us.",
+          "Holy Mother of God – Pray for us.",
+          "... (Include all invocations)",
+          "Lamb of God, who takes away the sins of the world – Spare us O Lord.",
+          "Lamb of God, who takes away the sins of the world – Graciously hear us O Lord.",
+          "Lamb of God, who takes away the sins of the world – Have mercy on us."
+        ],
+        "es": [
+          "Señor, ten piedad. Cristo, ten piedad. Señor, ten piedad.",
+          "Cristo, óyenos. Cristo, escúchanos benignamente.",
+          "Dios Padre del Cielo – Ten misericordia de nosotros.",
+          "Dios Hijo Redentor del mundo – Ten misericordia de nosotros.",
+          "Dios Espíritu Santo – Ten misericordia de nosotros.",
+          "Santísima Trinidad, un solo Dios – Ten misericordia de nosotros.",
+          "Santa María – Ruega por nosotros.",
+          "Santa Madre de Dios – Ruega por nosotros.",
+          "... (Incluir todas las invocaciones)",
+          "Cordero de Dios, que quitas los pecados del mundo – Perdónanos, Señor.",
+          "Cordero de Dios, que quitas los pecados del mundo – Escúchanos benignamente, Señor.",
+          "Cordero de Dios, que quitas los pecados del mundo – Ten misericordia de nosotros."
+        ]
+      }
+    },
+    {
+      "type": "closing_prayer",
+      "content": {
+        "en": [
+          "O God, whose only-begotten Son, by his life, death and resurrection has purchased for us the rewards of eternal life; grant, we beseech you, that meditating on these Mysteries in the most Holy Rosary of the Blessed Virgin Mary, we may both imitate what they contain and obtain what they promise, through Christ our Lord."
+        ],
+        "es": [
+          "Oh Dios, cuyo único Hijo, por su vida, muerte y resurrección nos ha obtenido los premios de la vida eterna; te rogamos que, meditando estos Misterios en el Santísimo Rosario de la Virgen María, podamos imitar lo que contienen y obtener lo que prometen, por Cristo Nuestro Señor."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "JUBILATE ALLELUJA (PSALM 66)",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Jubilate Deo omnis terra,",
+        "Servite Domino in laetitia;",
+        "Introite in conspectu ejus in exultatione.",
+        "Alleluia, alleluia!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Scitote quoniam Dominus ipse est Deus,",
+        "Ipse fecit nos et non ipsi nos,",
+        "Populus ejus et oves pascuae ejus.",
+        "Alleluia, alleluia!"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Venite, audite et narrabo vobiscum,",
+        "Omnes qui timetis Deum,",
+        "Quanta fecit Dominus animae meae.",
+        "Alleluia, alleluia!"
+      ]
+    }
+  ]
+}

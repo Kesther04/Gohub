@@ -1,0 +1,29 @@
+{
+  "title": "CHEBE MO NNA",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Chebe mo nna dị n'elu,",
+        "Ị dị n'etiti anyi di."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ọ bụrụ na anyi aga n'ụzọ ya,",
+        "Ga-esi anyi na ulo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ụmụ Chineke dị ize,",
+        "Dịghị onye isi na-abịa."
+      ]
+    }
+  ]
+}

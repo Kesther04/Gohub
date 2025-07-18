@@ -1,0 +1,35 @@
+{
+  "title": "ANYI ABIAWO CHINEKE",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Anyi abiawo Chineke,",
+        "Mmadu na anyanwu;",
+        "N'ime obi dị mma,",
+        "Ọ dị n’etiti anyi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ị dị n’etiti anyi,",
+        "Kama anyi dịghị ezi;",
+        "Dọrọ anyi n’ụtọ mmadu,",
+        "Ka anyi wee sị Chineke."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Anyi abia Chineke,",
+        "Eze mmadu nke dị mma;",
+        "Ọ bụ Eze dị n'elu,",
+        "Nke si n'etiti anyi."
+      ]
+    }
+  ]
+}

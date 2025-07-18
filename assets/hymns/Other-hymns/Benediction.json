@@ -1,0 +1,29 @@
+{
+  "title": "O SALUTARIS HOSTIA",
+  "sections": [
+    {
+      "type": "verse 1",
+      "content": [
+        "O salutaris Hostia,",
+        "Quae caelis pandis ostium!"
+      ]
+    },
+    {
+      "type": "verse 2",
+      "content": [
+        "Bella premunt hostilia,",
+        "Da robur, fer auxilium!"
+      ]
+    },
+    {
+      "type": "verse 3",
+      "content": [
+        "Uni trinoque Domino",
+        "Sit sempiterna gloria,",
+        "Qui vitam sine termino",
+        "Nobis donet in patria.",
+        "Amen."
+      ]
+    }
+  ]
+}

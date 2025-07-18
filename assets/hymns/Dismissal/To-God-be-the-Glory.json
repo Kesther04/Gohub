@@ -1,0 +1,29 @@
+{
+  "title": "TO GOD BE THE GLORY",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "To God be the glory, great things He has done,",
+        "So loved He the world that He gave us His Son,"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "And Jesus died for us all on the cross;",
+        "And rose again in victory over death and loss."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "O perfect redemption, the purchase of blood,",
+        "To make us the children of God!"
+      ]
+    }
+  ]
+}

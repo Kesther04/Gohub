@@ -1,0 +1,40 @@
+{
+  "title": "SOM NYAME",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Som Nyame, som Nyame,",
+        "Onyame yɛn na-ahyɛ me,",
+        "Na me nso na medeɛ no,",
+        "Na me nso na medeɛ no."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "W’ahyɛ me, w’ahyɛ me,",
+        "Na me nso na medeɛ no,",
+        "Na me nso na medeɛ no,",
+        "Som Nyame, som Nyame."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Yehowa, Yehowa,",
+        "Onyame yɛn na-ahyɛ me,",
+        "Na me nso na medeɛ no,",
+        "Na me nso na medeɛ no."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
+}

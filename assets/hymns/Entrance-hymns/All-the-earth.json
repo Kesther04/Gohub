@@ -1,0 +1,35 @@
+{
+  "title": "ALL THE EARTH TO THEE, O LORD",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "All the earth to thee, O Lord,",
+        "Hath its tribute paid;",
+        "Every creature owns thy word,",
+        "Feareth and obeyed."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "All the earth to thee, O Lord,",
+        "Hath its tribute paid;",
+        "Every creature owns thy word,",
+        "Feareth and obeyed."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "The spacious firmament on high,",
+        "With all the blue ethereal sky,",
+        "And spangled heavens, a shining frame,",
+        "Their great Original proclaim."
+      ]
+    }
+  ]
+}

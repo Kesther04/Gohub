@@ -1,0 +1,53 @@
+{
+  "title": "THE KING OF GLORY",
+  "sections": [
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "The King of Glory comes, the nation rejoices;",
+        "Open the gates before him, lift up your voices."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Who is the King of Glory; how shall we call him?",
+        "He is Emmanuel, the promised of ages."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "In all of Galilee, in city or village,",
+        "He goes among His people curing their illness."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Sing then of David's Son, our Savior and brother;",
+        "In all of Galilee was never another."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "He gave His life for us, the Lamb of salvation,",
+        "He took upon Himself the sins of the nation."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 5",
+      "content": [
+        "He conquered sin and death; He truly has risen,",
+        "And He will share with us His heavenly vision."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "ANYI GA EJE NA IHU JESU",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Anyi ga eje na ihu Jesu,",
+        "Ihe oma niile dị;",
+        "Ị dịghị onye isi na-abịa,",
+        "Ọ bụrụ na Jesu bụ Eze."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Anyi ga eje na ihu Jesu,",
+        "Na-agba ọsọ dị mma;",
+        "Onye bụrụ nwata Chineke,",
+        "Ga-enye ya ike nke dị mma."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Jesu bụ nnolite anyi,",
+        "Ọ dị n'etu dị elu;",
+        "Anyi gbaghị akwụghị ego,",
+        "Ma ka anyi na-eso ya."
+      ]
+    }
+  ]
+}

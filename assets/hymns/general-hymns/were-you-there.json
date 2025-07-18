@@ -1,0 +1,50 @@
+{
+  "title": "WERE YOU THERE",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Were you there when they crucified my Lord?",
+        "Were you there when they crucified my Lord?",
+        "Oh! Sometimes it causes me to tremble, tremble, tremble;",
+        "Were you there when they crucified my Lord?"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Were you there when they nailed Him to the tree?",
+        "Were you there when they nailed Him to the tree?",
+        "Oh! Sometimes it causes me to tremble, tremble, tremble;",
+        "Were you there when they nailed Him to the tree?"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 3",
+      "content": [
+        "Were you there when they laid Him in the tomb?",
+        "Were you there when they laid Him in the tomb?",
+        "Oh! Sometimes it causes me to tremble, tremble, tremble;",
+        "Were you there when they laid Him in the tomb?"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 4",
+      "content": [
+        "Were you there when God raised Him from the dead?",
+        "Were you there when God raised Him from the dead?",
+        "Oh! Sometimes it causes me to tremble, tremble, tremble;",
+        "Were you there when God raised Him from the dead?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": []
+    }
+  ]
+}

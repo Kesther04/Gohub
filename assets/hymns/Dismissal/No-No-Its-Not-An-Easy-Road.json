@@ -1,0 +1,29 @@
+{
+  "title": "NO, NO, IT'S NOT AN EASY ROAD",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "No, no, it's not an easy road,",
+        "But I must walk it every day;"
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "There are hills I must climb upward,",
+        "And valleys I must pass along the way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "But I know my Lord is with me,",
+        "He will never let me stray;"
+      ]
+    }
+  ]
+}

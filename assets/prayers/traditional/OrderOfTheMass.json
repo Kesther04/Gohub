@@ -1,0 +1,200 @@
+{
+  "title": {
+    "en": "The Order of Mass",
+    "es": "El Orden de la Misa"
+  },
+  "sections": [
+    {
+      "type": "introductory_rites",
+      "title": {
+        "en": "Introductory Rites",
+        "es": "Ritos Iniciales"
+      },
+      "content": {
+        "en": [
+          "Entrance Hymn: The choir can sing any entrance hymn(s).",
+          "Greeting:",
+          "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+          "The grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. And with your spirit.",
+          "The Lord be with you. And with your spirit."
+        ],
+        "es": [
+          "Canto de Entrada: El coro puede cantar cualquier himno de entrada.",
+          "Saludo:",
+          "En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.",
+          "La gracia de nuestro Señor Jesucristo, el amor de Dios y la comunión del Espíritu Santo sean con todos vosotros. Y con tu espíritu.",
+          "El Señor esté contigo. Y con tu espíritu."
+        ]
+      }
+    },
+    {
+      "type": "penitential_act",
+      "title": {
+        "en": "Penitential Act",
+        "es": "Acto Penitencial"
+      },
+      "content": {
+        "en": [
+          "Brethren, let us acknowledge our sins and prepare to celebrate the sacred mysteries.",
+          "I confess to almighty God, and to you, my brothers and sisters, that I have greatly sinned in my thoughts and words, in what I have done and failed to do. Through my fault, through my fault, through my most grievous fault.",
+          "May almighty God have mercy on us, forgive us our sins, and bring us to everlasting life. Amen."
+        ],
+        "es": [
+          "Hermanos, reconozcamos nuestros pecados y preparemonos para celebrar los sagrados misterios.",
+          "Confieso ante Dios todopoderoso y ante vosotros, hermanos y hermanas, que he pecado gravemente en mis pensamientos y palabras, en lo que he hecho y dejado de hacer. Por mi culpa, por mi culpa, por mi gran culpa.",
+          "Que Dios todopoderoso tenga misericordia de nosotros, nos perdone nuestros pecados y nos lleve a la vida eterna. Amén."
+        ]
+      }
+    },
+    {
+      "type": "kyrie_eleison",
+      "title": {
+        "en": "Kyrie Eleison",
+        "es": "Kyrie Eleison"
+      },
+      "content": {
+        "en": [
+          "Lord, have mercy. Christ, have mercy. Lord, have mercy."
+        ],
+        "es": [
+          "Señor, ten piedad. Cristo, ten piedad. Señor, ten piedad."
+        ]
+      }
+    },
+    {
+      "type": "gloria",
+      "title": {
+        "en": "Gloria",
+        "es": "Gloria"
+      },
+      "content": {
+        "en": [
+          "Glory to God in the highest, and on earth peace to people of good will.",
+          "We praise you, we bless you, we adore you, we glorify you.",
+          "Lord God, heavenly King, O God, Almighty Father.",
+          "Lord Jesus Christ, Only Begotten Son, Lamb of God, Son of the Father.",
+          "You take away the sins of the world, have mercy on us.",
+          "For you alone are the Holy One, you alone are the Lord, you alone are the Most High, Jesus Christ, with the Holy Spirit, in the glory of God the Father. Amen."
+        ],
+        "es": [
+          "Gloria a Dios en las alturas, y en la tierra paz a los hombres de buena voluntad.",
+          "Te alabamos, te bendecimos, te adoramos, te glorificamos.",
+          "Señor Dios, Rey celestial, oh Dios, Padre Todopoderoso.",
+          "Señor Jesucristo, Unigénito Hijo, Cordero de Dios, Hijo del Padre.",
+          "Tú que quitas el pecado del mundo, ten piedad de nosotros.",
+          "Porque solo tú eres el Santo, solo tú eres el Señor, solo tú eres el Altísimo, Jesucristo, con el Espíritu Santo, en la gloria de Dios Padre. Amén."
+        ]
+      }
+    },
+    {
+      "type": "collect_prayer",
+      "title": {
+        "en": "Collect Prayer",
+        "es": "Oración Colecta"
+      },
+      "content": {
+        "en": ["Let us pray.", "[Collect Prayer Text]", "Amen."],
+        "es": ["Oremos.", "[Texto de la Oración Colecta]", "Amén."]
+      }
+    },
+    {
+      "type": "liturgy_of_the_word",
+      "title": {
+        "en": "Liturgy of the Word",
+        "es": "Liturgia de la Palabra"
+      },
+      "content": {
+        "en": [
+          "First Reading: The reader reads the first reading. The word of the Lord. Thanks be to God.",
+          "Responsorial Psalm: The psalmist or cantor sings or says the psalms, with the people making the response.",
+          "Gospel Acclamation: Alleluia. Glory to you, O Lord.",
+          "Gospel Reading: The priest or deacon proclaims the Gospel. The Gospel of the Lord. Praise to you, Lord Jesus Christ."
+        ],
+        "es": [
+          "Primera Lectura: El lector lee la primera lectura. Palabra de Dios. Te damos gracias, Señor.",
+          "Salmo Responsorial: El salmista o cantor canta o dice los salmos, y el pueblo responde.",
+          "Aclamación al Evangelio: Aleluya. Gloria a ti, Señor.",
+          "Lectura del Evangelio: El sacerdote o diácono proclama el Evangelio. Palabra del Señor. Alabado seas, Señor Jesucristo."
+        ]
+      }
+    },
+    {
+      "type": "liturgy_of_the_eucharist",
+      "title": {
+        "en": "Liturgy of the Eucharist",
+        "es": "Liturgia de la Eucaristía"
+      },
+      "content": {
+        "en": [
+          "Pray, brethren, that my sacrifice and yours may be acceptable to God, the almighty Father.",
+          "May the Lord accept the sacrifice at your hands for the praise and glory of his name, for our good and the good of all his holy Church."
+        ],
+        "es": [
+          "Oren, hermanos, para que mi sacrificio y el vuestro sea aceptable a Dios, el Padre todopoderoso.",
+          "Que el Señor acepte el sacrificio de tus manos para alabanza y gloria de su nombre, para nuestro bien y el bien de toda su santa Iglesia."
+        ]
+      }
+    },
+    {
+      "type": "eucharistic_prayer",
+      "title": {
+        "en": "Eucharistic Prayer",
+        "es": "Plegaria Eucarística"
+      },
+      "content": {
+        "en": [
+          "The Lord be with you. And with your spirit.",
+          "Lift up your hearts. We lift them up to the Lord.",
+          "Let us give thanks to the Lord our God. It is right and just.",
+          "Holy, Holy, Holy Lord God of hosts. Heaven and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest."
+        ],
+        "es": [
+          "El Señor esté contigo. Y con tu espíritu.",
+          "Levantemos nuestros corazones. Los levantamos al Señor.",
+          "Demos gracias al Señor, nuestro Dios. Es justo y necesario.",
+          "Santo, Santo, Santo es el Señor Dios del universo. Llenos están el cielo y la tierra de tu gloria. Hosanna en el cielo. Bendito el que viene en nombre del Señor. Hosanna en el cielo."
+        ]
+      }
+    },
+    {
+      "type": "communion_rite",
+      "title": {
+        "en": "Communion Rite",
+        "es": "Rito de la Comunión"
+      },
+      "content": {
+        "en": [
+          "Our Father, who art in heaven, hallowed be thy name...",
+          "Deliver us, Lord, from every evil...",
+          "Behold the Lamb of God, behold him who takes away the sins of the world. Blessed are those called to the supper of the Lamb.",
+          "Lord, I am not worthy that you should enter under my roof, but only say the word and my soul shall be healed."
+        ],
+        "es": [
+          "Padre nuestro, que estás en el cielo, santificado sea tu nombre...",
+          "Líbranos, Señor, de todo mal...",
+          "He aquí el Cordero de Dios, que quita el pecado del mundo. Dichosos los invitados a la cena del Cordero.",
+          "Señor, no soy digno de que entres en mi morada, pero una palabra tuya bastará para sanarme."
+        ]
+      }
+    },
+    {
+      "type": "concluding_rites",
+      "title": {
+        "en": "Concluding Rites",
+        "es": "Ritos Finales"
+      },
+      "content": {
+        "en": [
+          "The Lord be with you. And with your spirit.",
+          "May almighty God bless you: the Father, and the Son, and the Holy Spirit. Amen.",
+          "Go forth, the Mass is ended. Thanks be to God."
+        ],
+        "es": [
+          "El Señor esté contigo. Y con tu espíritu.",
+          "Que Dios todopoderoso os bendiga: el Padre, el Hijo y el Espíritu Santo. Amén.",
+          "Id en paz, la Misa ha terminado. Demos gracias a Dios."
+        ]
+      }
+    }
+  ]
+}

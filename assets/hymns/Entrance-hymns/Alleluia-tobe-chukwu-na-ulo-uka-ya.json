@@ -1,0 +1,33 @@
+{
+  "title": "ALLELUIA! CHUKWU NA ULO...",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Alleluia! Chukwu na ulo,",
+        "Ogbugbu nke chineke;",
+        "Ndi mmadu ya ndi chima,",
+        "Eze mma anyi di."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Alleluia! Alleluia!",
+        "Chukwu na ulo, ogbugbu nke chineke."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Ndi mmadu ya ndi chima,",
+        "Eze mma anyi di;",
+        "Ndi mmadu ya ndi chima,",
+        "Eze mma anyi di."
+      ]
+    }
+  ]
+}

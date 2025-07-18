@@ -1,0 +1,35 @@
+{
+  "title": "COME THOU ALMIGHTY KING",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Come, Thou Almighty King,",
+        "Help us Thy name to sing,",
+        "Help us to praise: Father divine,",
+        "Thy every word and way."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "To Thee be endless praise,",
+        "Infinite Lord, we raise;",
+        "Thy glory sings our ransomed days,",
+        "Thy mercy crowns our way."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Holy and blest Thou art,",
+        "O'er all Thou dost preside;",
+        "None can with Thee compare in might,",
+        "Or wisdom or in guide."
+      ]
+    }
+  ]
+}

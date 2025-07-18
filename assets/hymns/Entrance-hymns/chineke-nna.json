@@ -1,0 +1,32 @@
+{
+  "title": "CHINEKE NNA",
+  "sections": [
+    {
+      "type": "verse",
+      "title": "Verse 1",
+      "content": [
+        "Chineke nna dị n'ulu, dị n'etiti anyi di,",
+        "N'ime obi dị mma, kama anyi dịghị ezi.",
+        "Dọrọ anyi n’ụtọ mmadu, ka anyi wee sị Chineke."
+      ]
+    },
+    {
+      "type": "chorus",
+      "title": "Chorus",
+      "content": [
+        "Ị dị n'etiti anyi di, dị n'etiti anyi,",
+        "Ọ bụrụ na anyi aga n'ụzọ ya, ga-esi anyi na ulo.",
+        "Ọ dị n'etiti anyi di, dị n'etiti anyi."
+      ]
+    },
+    {
+      "type": "verse",
+      "title": "Verse 2",
+      "content": [
+        "Anyi abia Chineke, Eze mmadu nke dị mma,",
+        "Ọ bụ Eze dị n'elu, nke si n'etiti anyi.",
+        "Anyi gbara ifufe, Kerubim na Serubim."
+      ]
+    }
+  ]
+}

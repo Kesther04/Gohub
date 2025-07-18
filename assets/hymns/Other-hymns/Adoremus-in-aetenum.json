@@ -1,0 +1,38 @@
+{
+  "title": "ADOREMUS IN AETERNUM",
+  "sections": [
+    {
+      "type": "verse 1",
+      "content": [
+        "Adoremus in aeternum,",
+        "Sanctissimum Sacramentum;",
+        "Adoremus in aeternum,",
+        "Sanctissimum Sacramentum."
+      ]
+    },
+    {
+      "type": "verse 2",
+      "content": [
+        "Laudate Dominum, omnes gentes,",
+        "Laudate eum, omnes populi."
+      ]
+    },
+    {
+      "type": "verse 3",
+      "content": [
+        "Quoniam confirmata est super nos misericordia ejus,",
+        "Et veritas Domini manet in aeternum."
+      ]
+    },
+    {
+      "type": "verse 4",
+      "content": [
+        "Gloria Patri et Filio,",
+        "Et Spiritui Sancto;",
+        "Sicut erat in principio,",
+        "Et nunc, et semper,",
+        "Et in saecula saeculorum. Amen."
+      ]
+    }
+  ]
+}
